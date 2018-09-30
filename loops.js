@@ -19,3 +19,7 @@ function whileLoop(number){
   }
   return "done";
 }
+
+function forLoop(array){
+  
+}
