@@ -11,3 +11,11 @@ function doWhileLoop(array){
   
   return array;
 }
+
+function whileLoop(number){
+  while(number !== 0){
+    console.log(number);
+    number--;
+  }
+  return "done";
+}
